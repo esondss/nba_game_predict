@@ -1,0 +1,30 @@
+
+Team/Player Attributes
+
+- TwoPointPercentage
+- ThreePoint Percentage
+- FreeThrowPercentage
+- OffensiveReboundPercentage
+- DeffensiveReboundPercentage
+- AssistPercentage
+- TurnoverPercentage
+- StealPercentage
+- BlockPercentage
+- PersonalFoul
+
+
+Distributions:
+
+- uniform(low,high)
+- poission(lam)
+- binomial(n, p)
+- beta(a, b)
+- gamma(shape, scale)
+- weibull(a)
+
+
+
+Models:
+
+- random forest
+- neural network
